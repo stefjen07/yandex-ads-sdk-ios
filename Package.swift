@@ -64,13 +64,13 @@ let package = Package(
         ),
         .binaryTarget(
             name: "YandexMobileAds",
-            url: "https://s3.mds.yandex.net/users/stefjen/YandexMobileAdsNO.xcframework.zip",
-            checksum: "ff748cd621b7919371ac49711cc6db4a8af7934d6a806a31aaded517ec7182ac"
+            url: "https://s3.mds.yandex.net/users/stefjen/YandexMobileAdsEXP.xcframework.zip",
+            checksum: "00ae7a8d1f6c7a240ba5b9328287723775ea355ba084209155803c2ace2f7a94"
         ),
         .binaryTarget(
             name: "YandexMobileAdsInstream",
-            url: "https://s3.mds.yandex.net/users/stefjen/YandexMobileAdsInstreamNO.xcframework.zip",
-            checksum: "c24902a90e26163d25e0d8ce064149fd7160677dc9bbb9e4d9c6461425f449c5"
+            url: "https://s3.mds.yandex.net/users/stefjen/YandexMobileAdsInstreamEXP.xcframework.zip",
+            checksum: "1ff603cf616c88d8817abc047538438427589df8724fff1ac8c6f6198ea35801"
         )
     ]
 )
